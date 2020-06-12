@@ -1,9 +1,4 @@
-# BandagedBD [![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link]
-[patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2FZerebos&style=flat-square
-[patreon-link]: https://patreon.com/Zerebos
-
-[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
-[paypal-link]: https://paypal.me/ZackRauen
+# BandagedBD with out the Racist BLM Link
 
 BandagedBD (Bandaged BetterDiscord) is a fork of the original [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) by Jiiks. This has a number of improvements over the original. The original version has been unmaintained hence this fork existing. There have been attempts to rewrite the original that I have been and will continue to be involved in, but in the meantime I will continue to maintain and improve BBD.
 
